@@ -2,10 +2,12 @@
   padding-top: 6rem;
   background-color: #faaf36;
 }
-
 #gallery {
   background-color: #faaf36;
 }
 section {
   padding-top: 5rem;
+}
+.navbar .fa {
+  margin-right: 8px;
 }
